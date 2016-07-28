@@ -5,3 +5,6 @@ compete in brutal battle testing your coding skills against your rivals.
 Or just play nice.
 
 Okay, after this I'm going to actually write some code.
+
+
+[![Throughput Graph](https://graphs.waffle.io/AlexTheProgrammer/gocodego/throughput.svg)](https://waffle.io/AlexTheProgrammer/gocodego/metrics/throughput)
